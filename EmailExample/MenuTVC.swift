@@ -3,7 +3,7 @@
 //  EmailExample
 //
 //  Created by Joshua Nowak on 9/26/17.
-//  Copyright © 2017 Nowak. All rights reserved.
+//  Copyright © 2017 Nowak. All rights reserved. 
 //
 
 import UIKit
