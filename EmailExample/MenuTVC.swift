@@ -3,7 +3,7 @@
 //  EmailExample
 //
 //  Created by Joshua Nowak on 9/26/17.
-//  Copyright © 2017 Nowak. All rights reserved. 
+//  Copyright © 2017 Nowak. All rights reserved.
 //
 
 import UIKit
@@ -20,7 +20,7 @@ class MenuTVC: UITableViewController {
         // self.clearsSelectionOnViewWillAppear = false
 
         // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
-        // self.navigationItem.rightBarButtonItem = self.editButtonItem()
+        // self.navigationItem.rightBarButtonItem = self.editButtonItem
     }
 
     override func didReceiveMemoryWarning() {
