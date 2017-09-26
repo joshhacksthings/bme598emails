@@ -2,9 +2,8 @@
 //  RootTVC.swift
 //  EmailExample
 //
-//  Created by Emily Byrne on 9/18/17.
-//  Copyright © 2017 Byrne. All rights reserved.
-//
+//  Created by Joshua Nowak on 9/26/17.
+//  Copyright © 2017 Nowak. All rights reserved.//
 
 import UIKit
 
